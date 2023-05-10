@@ -14,15 +14,15 @@ Your website does _not_ need to have the exact same content. You will be graded 
 
 On a desktop, your website should look similar to the following. You can use the `md` breakpoint when deciding upon classes.
 
-![desktop.png](desktop.png)
+![desktop.png](images/desktop.png)
 
 ### Mobile view
 
 On a smaller device, your layout should look similar to the following.
 
-![mobile-1.png](mobile-1.png)
+![mobile-1.png](images/mobile-1.png)
 
-![mobile-2.png](mobile-2.png)
+![mobile-2.png](images/mobile-2.png)
 
 ### Image resources
 
